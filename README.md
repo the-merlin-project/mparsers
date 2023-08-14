@@ -1,1 +1,1 @@
-Build this up into a parser library for Merlin.
+To be built up into a parser library for Merlin.
